@@ -1,4 +1,4 @@
-Hello, I have been learnign the basics and findamental of python for the past month and I amd ready to start doing project.
+Hello, I have been learning the basics and fundamental of python for the past month and I am ready to start doing project.
 
 <!---
 MyjourneyProjects/MyjourneyProjects is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
